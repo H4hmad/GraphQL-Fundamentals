@@ -1,0 +1,5 @@
+{
+  "name": "hello-world-project",
+  "private": true,
+  "type": "module"
+}
